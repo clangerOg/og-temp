@@ -68,10 +68,10 @@ export default async function Landing() {
         >
           hello@orbitgrowth.de
         </Link>
-        <p>+49 176 57600680</p>
+        <p>+49 176 42013555</p>
         <p>
           Friedrich-List-Straße 4 <br />
-          40880 Ratingen
+          40882 Ratingen
         </p>
       </div>
 

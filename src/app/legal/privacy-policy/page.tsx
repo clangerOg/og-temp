@@ -192,7 +192,7 @@ export default async function PrivacyPolicyPage() {
           Kosche und Langer GbR, Webdesign Agentur
           <br />
           Friedrich-List-Stra&szlig;e 4<br />
-          40878, Ratingen
+          40882, Ratingen
           <br />
           NRW, Deutschland
         </p>

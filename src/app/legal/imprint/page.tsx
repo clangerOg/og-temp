@@ -36,7 +36,7 @@ export default async function ImprintPage() {
           Kosche und Langer GbR, Webdesign Agentur
           <br />
           Friedrich-List-Stra&szlig;e, 4<br />
-          40880 Ratingen
+          40882 Ratingen
         </p>
 
         <p>
